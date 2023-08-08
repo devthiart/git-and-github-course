@@ -4,12 +4,7 @@
 
 Project created to study Git and GitHub.
 
-## To install this project
-```
-npm install
-```
-
 ## To run this project
 ```
-npm start
+node app.js
 ```
